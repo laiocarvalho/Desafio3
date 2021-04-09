@@ -1,0 +1,24 @@
+.time-casa{
+  text-align: right;
+}
+
+.time-visitante{
+  text-align: left;
+}
+
+.gols{
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.versus{
+  text-align: center;
+}
+
+
+td{
+  border-collapse: collapse;
+  font-size: .9em;
+  padding: 5px;
+  
+}

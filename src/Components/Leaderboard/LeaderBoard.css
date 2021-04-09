@@ -1,0 +1,24 @@
+.leaderboard-container thead th{
+  background-color: rgb(138, 185, 157);
+  font-size: 20px;
+  padding: 5px 5px;
+  text-align: center;
+}
+
+.leaderboard-container table{
+  border-collapse: collapse;
+  height: 100%;
+  font-size: 1.2em;
+}
+
+.leaderboard-container tbody{
+  background-color: white;
+  text-align: center;
+}
+
+.icon{
+  border:none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.home-main-container{
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+} 

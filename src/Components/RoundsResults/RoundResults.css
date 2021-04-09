@@ -1,0 +1,44 @@
+.jogos-container{
+  width: 400px;
+  min-height: 550px;
+  font-size: 1.4em;
+  justify-content: center;
+  position: relative;
+}
+
+.rounds-results-table h2{
+  font-family: sans-serif;
+  font-size: .7em;
+}
+.rounds-results-table{
+  border-collapse: collapse;
+  height: 100%;
+  width: 100%;
+}
+
+.rounds-results-table thead{
+  background-color: rgb(138, 185, 157);
+}
+
+.rounds-results-table thead th{
+  height: 50px;
+}
+
+.rounds-results-table th button{
+  background-color: transparent;
+  border: none;
+  outline: none;
+  height: 100%;
+  cursor: pointer;
+}
+.rounds-results-table tbody{
+  background-color:white;
+}
+
+
+
+
+
+
+
+
